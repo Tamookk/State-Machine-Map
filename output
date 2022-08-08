@@ -1,0 +1,104 @@
+// MEQ
+digraph {
+	A
+	B
+	C
+	D
+	E
+	F
+	G
+	H
+	I
+	J
+	K
+	L
+	M
+	N
+	O
+	P
+	Q
+	R
+	S
+	T
+	U
+	V
+	W
+	X
+	Y
+	Z
+	A -> H
+	A -> T
+	A -> N
+	B -> D
+	B -> E
+	B -> S
+	C -> P
+	C -> Y
+	C -> C
+	D -> F
+	D -> H
+	D -> U
+	E -> Q
+	E -> Z
+	E -> G
+	F -> M
+	F -> S
+	F -> V
+	G -> Q
+	G -> E
+	G -> G
+	H -> F
+	H -> R
+	H -> E
+	I -> E
+	I -> U
+	I -> M
+	J -> L
+	J -> H
+	J -> W
+	K -> I
+	K -> Q
+	K -> W
+	L -> N
+	L -> C
+	L -> E
+	M -> U
+	M -> E
+	M -> C
+	N -> L
+	N -> U
+	N -> Q
+	O -> B
+	O -> H
+	O -> E
+	P -> X
+	P -> K
+	P -> R
+	Q -> J
+	Q -> F
+	Q -> P
+	R -> J
+	R -> F
+	R -> O
+	S -> Z
+	S -> I
+	S -> F
+	T -> V
+	T -> C
+	T -> F
+	U -> U
+	U -> J
+	U -> L
+	V -> F
+	V -> D
+	V -> H
+	W -> Q
+	W -> N
+	W -> Y
+	X -> P
+	X -> I
+	X -> L
+	Y -> U
+	Y -> L
+	Y -> J
+}
