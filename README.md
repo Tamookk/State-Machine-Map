@@ -16,7 +16,7 @@ Python 3 is also required before this script can be executed.
 
 ## Installation
 
-1. Clone the repository with `git clone https://github.com/Tamookk/MEQ`
+1. Clone the repository with `git clone https://github.com/Tamookk/State-Machine-Map`
 2. Navigate into the new `MEQ` folder
 3. From the command line, install requirements with `pip install graphviz`
 4. Copy the IP address of the server into `settings.txt` 
